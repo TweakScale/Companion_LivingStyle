@@ -55,7 +55,7 @@ The following file layout must be present after installation:
 
 ### Dependencies
 
-* TweakScale /L 2.3 or later
+* TweakScale /L 2.4.4 or later
 	+ **NOT** included
 * Module Manager 3.1.1 or later
 	+ **NOT** included

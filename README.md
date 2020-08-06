@@ -1,6 +1,6 @@
 # TweakScale Companion :: Living Style
 
-Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs about Habitats, including Stations (ground of space) that would not justify a whole Companion for them.
+Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs about Habitats, including Stations (ground or space) that would not justify a whole Companion for them.
 
 
 ## In a Hurry
@@ -21,10 +21,29 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
 
 ## Description
 
-**TweakScale Companion Living Style** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for the following Add'Ons:
+**TweakScale Companion Living Style** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
 
-* WiP
-	+ [GitHub]()
+* PorjJet's HabPack
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
+	+ EoL, currently distributed on Tokamak Industries (see below)
+* HabTech (1)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
+	+ [SpaceDock](https://spacedock.info/mod/449/HabTech)
+	+ [GitHub](https://github.com/LouisB3/HabTech-Classic/) (Community maintenance)
+* HabTech 2
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
+	+ [SpaceDock](https://spacedock.info/mod/2078/HabTech2)
+	+ [GitHub](https://github.com/benjee10/HabTech2)
+* Tokamak Industries
+	+ Original 
+		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/146633-*/)
+		- [GitHub](https://github.com/maekern/Tokamak-Refurbished-Parts/releases)
+	+ Current Maintainer
+		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/)
+		- [SpaceDock](https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts)
+		- [GitHub](https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts)
+
+And more to come!
 
 
 ## Installation
@@ -65,11 +84,11 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 ## References
 
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
 	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
-* WiP
-	+ [Forum]()
-	+ [GitHub]()
+* TweakScale Companion Program
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*/) 
+	+ [GitHub](https://github.com/net-lisias-ksp/TweakScaleCompanion)
