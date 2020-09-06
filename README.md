@@ -23,7 +23,11 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
 
 **TweakScale Companion Living Style** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
 
-* PorjJet's HabPack
+* CxAerospace Station Parts
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/)
+	+ [SpaceDock](https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack)
+	+ [Imgur](https://imgur.com/a/mcIwe)
+* (PorjJet's) HabPack
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
 	+ EoL, currently distributed on Tokamak Industries (see below)
 * HabTech (1)
