@@ -38,6 +38,12 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
 	+ [SpaceDock](https://spacedock.info/mod/2078/HabTech2)
 	+ [GitHub](https://github.com/benjee10/HabTech2)
+* Station Parts Expansion
+    + [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
+    + [Imgur](https://imgur.com/a/k6qrA)
+    + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion)
+    + [SpaceDock](https://spacedock.info/mod/736/Stockalike%20Station%20Parts%20Expansion)
+    + [Github](https://github.com/ChrisAdderley/StationPartsExpansion)
 * Tokamak Industries
 	+ Original 
 		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/146633-*/)
