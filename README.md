@@ -27,7 +27,7 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/)
 	+ [SpaceDock](https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack)
 	+ [Imgur](https://imgur.com/a/mcIwe)
-* (PorjJet's) HabPack
+* (PorkJet's) HabPack
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
 	+ EoL, currently distributed on Tokamak Industries (see below)
 * HabTech (1)
