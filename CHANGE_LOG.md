@@ -1,5 +1,8 @@
 # TweakScale Companion :: Living Style :: Change Log
 
+* 2021-0919: 0.0.3.0 (LisiasT) for KSP >= 1.2.2
+	+ Adds support for:
+		- Station Parts Expansion
 * 2020-0907: 0.0.2.1 (LisiasT) for KSP >= 1.2.2
 	+ Adds support for:
 		- CxAerospace Station Parts 
