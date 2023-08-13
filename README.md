@@ -102,32 +102,3 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [GitHub](https://github.com/TweakScale/TweakScale)
-* CxAerospace Station Parts
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/)
-	+ [SpaceDock](https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack)
-	+ [Imgur](https://imgur.com/a/mcIwe)
-* (PorkJet's) HabPack
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
-	+ EoL, currently distributed on Tokamak Industries (see below)
-* HabTech (1)
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
-	+ [SpaceDock](https://spacedock.info/mod/449/HabTech)
-	+ [GitHub](https://github.com/LouisB3/HabTech-Classic/) (Community maintenance)
-* HabTech 2
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
-	+ [SpaceDock](https://spacedock.info/mod/2078/HabTech2)
-	+ [GitHub](https://github.com/benjee10/HabTech2)
-* Station Parts Expansion
-    + [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
-    + [Imgur](https://imgur.com/a/k6qrA)
-    + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion)
-    + [SpaceDock](https://spacedock.info/mod/736/Stockalike%20Station%20Parts%20Expansion)
-    + [Github](https://github.com/ChrisAdderley/StationPartsExpansion)
-* Tokamak Industries
-	+ Original 
-		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/146633-*/)
-		- [GitHub](https://github.com/maekern/Tokamak-Refurbished-Parts/releases)
-	+ Current Maintainer
-		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/)
-		- [SpaceDock](https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts)
-		- [GitHub](https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts)
