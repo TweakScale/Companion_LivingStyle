@@ -45,6 +45,12 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
     + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion)
     + [SpaceDock](https://spacedock.info/mod/736/Stockalike%20Station%20Parts%20Expansion)
     + [Github](https://github.com/ChrisAdderley/StationPartsExpansion)
+* Station Parts Expansion Redux
+    + [Forum](https://forum.kerbalspaceprogram.com/topic/170211-*/)
+    + [Imgur](https://imgur.com/a/wBCin)
+    + [CurseForge](https://kerbal.curseforge.com/projects/stockalike-station-parts-expansion-redux)
+    + [SpaceDock](https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux)
+    + [Github](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/)
 * Tokamak Industries
 	+ Original 
 		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/146633-*/)
